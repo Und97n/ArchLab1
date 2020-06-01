@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Playlist>
+	<Genre name="Genre1">
+		<music>
+			<filename>fn</filename>
+			<title>Song</title>
+			<link>/1</link>
+		</music>
+	</Genre>
+</Playlist>
